@@ -3,75 +3,50 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Front-End Development",
+      "description": "Experienced in building responsive and interactive UIs using React.js, HTML, CSS, and JavaScript. Passionate about crafting seamless user experiences with modern design principles."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Back-End Development",
+      "description": "Proficient in developing robust and scalable server-side applications using Java, Spring Boot, and REST APIs. Skilled in authentication, database management, and API integration."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Database Management",
+      "description": "Well-versed in MySQL and MongoDB, focusing on efficient database design, query optimization, and secure data handling."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Cloud & DevOps",
+      "description": "Hands-on experience with AWS, CI/CD pipelines, and Docker. Skilled in automating deployments, managing cloud infrastructure, and ensuring application scalability."
     }
   ],
-  "portfolio": [
+ "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "NeedsForYou",
+      "description": "A dynamic e-commerce platform built with React.js, Spring Boot, and MySQL. Features secure transactions, intuitive UI, and JWT-based authentication.",
+      "link": "https://github.com/omeshchandra203"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Digitalized Systems for Educational Institutes",
+      "description": "A digital transformation solution designed to streamline administrative and academic workflows in educational institutions.",
+      "link": "https://github.com/omeshchandra203"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "FireFlare",
+      "description": "A professional website built for Thirumala Fireworks, showcasing products, safety measures, and customer inquiries.",
+      "link": "https://github.com/omeshchandra203"
     }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
-    }
-  ]
+]
+
 }
